@@ -1,17 +1,7 @@
 
-{
-    "urls": [
-        {
-          "url":"http://yydsys.top/duo",
-          "name":"🚀多多家庭"
-        },
-        {
-          "url":"http://饭太硬.top/tv",
-          "name":"🚀饭太硬"
-        },
-        {
-          "url":"https://肥猫.love",
-          "name":"🚀肥猫"
-        }
-     ]
-   }
+{"urls": [
+        {"url":"http://yydsys.top/duo","name":"🚀多多家庭"},
+        {"url":"http://饭太硬.top/tv","name":"🚀饭太硬"},
+       // {"url":"","name":""},
+        {"url":"https://肥猫.love","name":"🚀肥猫"}
+     ]}
