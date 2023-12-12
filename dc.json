@@ -9,6 +9,6 @@
    {"url":"http://rihou.vip:88/荷城茶秀","name":"🚀荷城茶秀"},
    {"url":"https://tvbox.cainisi.cf","name":"🚀菜泥丝"},
    {"url":"http://蜂蜜.eu.org","name":"🚀蜜蜂"},
-   {"url":"https://cdn.jsdelivr.net/gh/2hacc/TVBox@main/tvbox.json","name":"🚀二哈"},
-   {"url":"https://cdn.jsdelivr.net/gh/2hacc/TVBox@main/xiaoya.json","name":"🚀小雅"}
+   {"url":"https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json","name":"🚀二哈"},
+   {"url":"https://raw.githubusercontent.com/2hacc/TVBox/main/xiaoya.json","name":"🚀小雅"}
         ]}
